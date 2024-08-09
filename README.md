@@ -15,7 +15,7 @@ Este projeto visa mostrar a beleza e a diversidade das cidades ao redor do mundo
 
 ## 🔗 Links Úteis
 
-- **Meu Portfólio:** [Portfolio de Fernando Gomes](https://github.com/fernandogomesfg)
+- **Meu Portfólio:** [Portfolio de Fernando Gomes](https://fernandogomesfg.github.io/)
 - **#30DaysMapChallenge:** [Desafio de Mapas de 30 Dias](https://github.com/fernandogomesfg/30DayMapChallenge2023)
 
 ## 💻 Como Usar
